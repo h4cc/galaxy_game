@@ -1,3 +1,0 @@
-galaxy_game:setup_universe([mercury, venus, earth, mars], [venus, earth], [{mercury, venus}, {venus, earth}]).
-galaxy_game:simulate_attack([mercury, venus, earth, mars], [{nuclear, venus}, {laser, earth}]).
-galaxy_game:teardown_universe([mercury, venus, earth, mars]).
